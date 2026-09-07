@@ -1,4 +1,4 @@
-# 🔬 Deep Research Agent
+# 🔬 Multi Research Agent
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1.x-blue?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq-LLaMA3.3_70B-orange?style=flat-square)
